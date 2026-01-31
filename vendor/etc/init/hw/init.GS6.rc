@@ -1,0 +1,19 @@
+# GS6 .rc configure
+
+on boot
+    chown root system /sys/devices/platform/soc/11013000.spi3/spi_master/spi3/spi3.0/fts_fod_mode
+    chmod 0664 /sys/devices/platform/soc/11013000.spi3/spi_master/spi3/spi3.0/fts_fod_mode
+    chown root system /sys/devices/platform/soc/11013000.spi3/spi_master/spi3/spi3.0/fod_pressed
+    chmod 0664 /sys/devices/platform/soc/11013000.spi3/spi_master/spi3/spi3.0/fod_pressed
+    chown root system /sys/devices/platform/soc/11013000.spi3/spi_master/spi3/spi3.0/fts_gesture_mode
+    chmod 0664 /sys/devices/platform/soc/11013000.spi3/spi_master/spi3/spi3.0/fts_gesture_mode
+    chown root system /sys/devices/platform/soc/11013000.spi3/spi_master/spi3/spi3.0/double_tap_pressed
+    chmod 0664 /sys/devices/platform/soc/11013000.spi3/spi_master/spi3/spi3.0/double_tap_pressed
+    chown root system /sys/devices/platform/soc/11013000.spi3/spi_master/spi3/spi3.0/fts_glove_mode
+    chmod 0664 /sys/devices/platform/soc/11013000.spi3/spi_master/spi3/spi3.0/fts_glove_mode
+
+    chown root system /sys/devices/platform/charger/user_fast_charge_enabled
+    chmod 0664 /sys/devices/platform/charger/user_fast_charge_enabled
+
+    chown root system /sys/devices/platform/soc/1401a000.dsi0/hbm
+    chmod 0664 /sys/devices/platform/soc/1401a000.dsi0/hbm
