@@ -1,0 +1,14 @@
+# ansuz-user 15 BP1A.250505.005 46-volla-15.0 release-keys
+- manufacturer: volla
+- platform: common
+- codename: ansuz
+- flavor: ansuz-user
+- release: 15
+- id: BP1A.250505.005
+- incremental: 46-volla-15.0
+- tags: release-keys
+- fingerprint: volla/ansuz/ansuz:15/AP3A.240905.015.A2/1:user/release-keys
+- is_ab: true
+- brand: volla
+- branch: ansuz-user-15-BP1A.250505.005-46-volla-15.0-release-keys
+- repo: volla_ansuz_dump
