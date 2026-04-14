@@ -1,0 +1,2 @@
+user=_app seinfo=platform name=com.trustonic.tuiservice domain=mobicore_app type=app_data_file levelFrom=user
+user=_app seinfo=platform name=com.android.HorCali domain=horcali_app type=app_data_file levelFrom=user
