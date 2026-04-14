@@ -1,0 +1,14 @@
+# ansuz-user 16 BP4A.251205.006 35-volla-16.0 release-keys
+- manufacturer: volla
+- platform: common
+- codename: ansuz
+- flavor: ansuz-user
+- release: 16
+- id: BP4A.251205.006
+- incremental: 35-volla-16.0
+- tags: release-keys
+- fingerprint: volla/ansuz/ansuz:15/AP3A.240905.015.A2/1:user/release-keys
+- is_ab: true
+- brand: volla
+- branch: ansuz-user-16-BP4A.251205.006-35-volla-16.0-release-keys
+- repo: volla_ansuz_dump
